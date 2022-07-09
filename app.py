@@ -4,6 +4,7 @@ def Guvi(number):
     else:
         return "odd"
 
+<<<<<<< HEAD
 #print(Guvi(4))
 
 def stepsToCollatzConjenture(collatzlist):
@@ -25,3 +26,6 @@ def Collatz_Conjenture(number):
 
 
 
+=======
+print(Guvi(4))
+>>>>>>> 1d04ef881cc3c7deadde5ad64953644901c802a0
