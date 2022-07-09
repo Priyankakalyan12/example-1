@@ -1,4 +1,4 @@
-def Guvi(numnber):
+def Guvi(number):
     if(number%2==0):
         return "even"
     else:
